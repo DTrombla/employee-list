@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Thumbnail/style.css"],"names":[],"mappings":"AAAA,cACE,qBAAsB,CACtB,2BAA4B,CAC5B,uBAA2B,CAC3B,UAAW,CACX,gBACF","file":"main.2cc8e54f.chunk.css","sourcesContent":["div.thumbnail {\r\n  background-size: cover;\r\n  background-repeat: no-repeat;\r\n  background-position: center;\r\n  width: 100%;\r\n  padding-top: 100%;\r\n}\r\n"]}
