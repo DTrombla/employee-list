@@ -1,0 +1,20 @@
+body{
+    text-align:center;
+}
+table{
+    width: 1024px;
+    margin: auto;
+    
+}
+th{
+    font-size: 20px;
+    width: 300px;
+}
+td{
+    font-size: 20px;
+    width:300px;
+}
+
+.employee{
+    border: solid 1px black;
+}
