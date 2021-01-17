@@ -15,5 +15,5 @@ Contact me with questions or suggestions at duncan@trombla.org or message me on 
 
 ## Link to App
 
-https://fitness-tracker2021.herokuapp.com/
+https://dtrombla.github.io/employee-list/
 
