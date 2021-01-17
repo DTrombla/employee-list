@@ -15,5 +15,5 @@ Contact me with questions or suggestions at duncan@trombla.org or message me on 
 
 ## Link to App
 
-https://dtrombla.github.io/employee-list/
+https://employee-directory2021app.herokuapp.com/
 
